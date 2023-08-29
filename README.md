@@ -20,5 +20,5 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) 
 
-<!--  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kaust-vislab/kvl-binder-serv/HEAD) -->
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kaust-vislab/kvl-binder-serv-public.git/HEAD)
 <!-- [![Binder](https://mybinder.org/badge_logo.svg)](https://binder.kaust.edu.sa/v2/gh/kaust-vislab/kvl-binder-serv/HEAD) -->
