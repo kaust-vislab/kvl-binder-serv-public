@@ -1,0 +1,15 @@
+lolcat
+cowsay
+coreutils
+vim 
+git 
+wget
+curl
+build-essential
+zip
+#### this is disabled for ubuntu 18.04
+### https://github.com/jupyterhub/repo2docker/issues/700
+#man-db 
+#manpages-posix 
+#manpages-dev 
+#manpages-posix-dev
